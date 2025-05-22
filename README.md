@@ -1,22 +1,22 @@
 # Marks Management System - Screenshots
 
 ## Add Page
-![Add Page](output/add.png)
+![Add Page](MarksManagement/output/add.png)
 
 ## Delete Page
 ![Delete Page](MarksManagement/output/delete.png)
 
 ## Initial Page
-![Initial Page](output/initial.png)
+![Initial Page](MarksManagement/output/initial.png)
 
 ## Mark List Page
-![Mark List Page](output/marklist.png)
+![Mark List Page](MarksManagement/output/marklist.png)
 
 ## Report Form Page
-![Report Form Page](output/reportform.png)
+![Report Form Page](MarksManagement/output/reportform.png)
 
 ## Report Result Page
-![Report Result Page](output/reportres.png)
+![Report Result Page](MarksManagement/output/reportres.png)
 
 ## Update Page
-![Update Page](output/update.png)
+![Update Page](MarksManagement/output/update.png)

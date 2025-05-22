@@ -4,7 +4,7 @@
 ![Add Page](output/add.png)
 
 ## Delete Page
-![Delete Page](output/delete.png)
+![Delete Page](MarksManagement/output/delete.png)
 
 ## Initial Page
 ![Initial Page](output/initial.png)
